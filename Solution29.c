@@ -1,3 +1,6 @@
+/* Print the sum of first n natural numbers.
+Also, print them in reverse. */
+
 #include<stdio.h>
 
 int main() {

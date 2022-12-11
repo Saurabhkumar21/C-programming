@@ -1,0 +1,96 @@
+Solution1.c - C Program to print Hello World.
+Solution2.c - C Program to find the sum of three numbers.
+Solution3.c - C Program to print age of father and his son.
+Solution4.c - C Program to find the area of rectangle.
+Solution5.c - C Program to find the perimeter of rectangle.
+Solution6.c - C Program to find the perimeter of square.
+Solution7.c - C Program to find the area of square.
+Solution8.c - Write a C programm to check if the number is divisible by 2 or not.
+Solution9.c - Write a program to check if a number is odd or even.
+Solution10.c - Print1 (True) or 0(False) for following statements :
+               a.if it's sunday & it's snowing - True
+               b.if it's monday or it's raining - True
+               c.if a number is greater than 9 & less than 100 - True
+Solution11.c - Write a program to check if a student passed or failed.
+Solution12.c - Write a program to find if a character entered by user is upper case or not.
+Solution13.c - Write a program to give grades to a student marks<30 is C
+               30 <= marks < 70 is B
+               70 <= marks < 90 is A
+               90 <= marks <=100 is A+
+Solution14.c - Write a program to print hello world 5 times using while loop.
+Solution15.c - Write a program to print the numbers from 0 to n, if n is given by user.
+solution16.c - Will this code:
+               int x=2;
+               if(x=1) {
+                printf ("X is equal to 1");
+               } else {
+                printf("X is not equal to 1");
+               }               
+
+               a.Give error
+               b.Print "X is not equal to 1"
+               c.Print "X is not equal to 1"
+Solution17.c - Write a C program to find cube in C.
+Solution18.c - Infinite loop in c.
+Solution19.c - Basic example of increment operator.
+Solution20.c - Basic example of decrement operator.
+Solution21.c - write a program to print Hello world 1000times using for loop.
+Solution22.c - Write a program to print 1.000000 to 5.000000 and a to z character.
+Solution23.c - write a C program to print 1 to 10 numbers using for loop.
+Solution24.c - Print the table of a number input by user.
+Solution25.c - Write a C program that asks user to check out the number positive or negative and odd or even.
+Solution26.c - Write a program to check if a person is adult or not.
+Solution27.c - Write a program to print numbers from 5 to 1 using while loop.
+Solution28.c - C program to return day name of week usimg switch condition.
+Solution29.c - Print the sum of first n natural numbers.Also, print them in reverse.
+Solution30.c - Write a C program to perform input/ouput of all basic data types.
+Solution31.c - write a C program to enter two numbers and find their sum. 
+Solution32.c - Write a C program to enter two numbers and perform all arithmetic operation.
+Solution33.c - Write a C program to enter length and breadth of a rectangle  and find its perimeter.
+Solution34.c - Write a C program to enter length and braedth of a rectangle and find its area.
+Solution35.c - Write a c programm to enter radius of circle and find its diameter, circumference and area.
+Solution36.c - Write a C program to enter length in centimeter and convert it into meter and kilometer.
+Solution37.c - Write a C program to enter temperature in Farenheit and convert to celsius.
+solution38.c - Write a C program to enter temperature in celsius and convert it into the fahrenheit.
+Solution39.c - Write a c program to convert days into years, weeks and days.
+Solution40.c - Write a C program to find power of any number x^y.
+Solution41.c - Write a C program to enter any number and calculate its square root.
+Solution42.c - Write a C program to enter marks of five subjects and calculate total, average and percentage.
+Solution43.c - Write a C program to find maximum between two numbers.
+Solution44.c - Write a C program to find maximum between three numbers.
+Solution45.c - Write a C program to check whether a number is negative, positive or zero.
+Solution46.c - Write a C program to check whether a number is divisible by 5 and 11 or not.
+Solution47.c - Write a C program to check whether a number is even or odd.
+Solution48.c - Write a C program to check whether a year is leap year or not.
+Solution49.c - Write a C program to check whether a character is alphabet or not.
+Solution50.c - Write a c program to input any alphabet and check whether it is vowel or consonant.
+Solution51.c - Write a C program to input any character and check whether it is alphabet, digit or special character.
+Solution52.c - Write a C program to check whether a character is uppercase or lowercase alphabet.
+Solution53.c - Write a C program input week number and print week day.
+Solution54.c - Write a C program to input month number and print number of days in that month.
+Solution55.c - Write a C program to input angles of a triangle and check whether triangle is valid or not.
+Solution56.c - Write a C program to input all sides of a triangle and check whether triangle is valid or not.
+Solution57.C - write a C program to check whether a triangle is Equilateral, Isosceles or Scalene.
+Solution58.c - Write a C program to calculate profit or loss.
+Solution59.c - Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+Solution60.c - Write a C program to print day of week using switch case.
+Solution61.c - Write a C program to print number of days in a month using switch case.
+Solution62.c - Write a C program to check vowel or consonant using switch case. 
+Solution63.c - Write a C program to find maximum between two numbers using switch case.
+Solution64.c - Write a c program to check even or odd using switch case.
+Solution65.c - Write a C program to check positive, negative or zero using switch case.
+Solution66.c - Write a C program to create cimple calculator using switch case.
+Solution67.c - Keep taking numbers as input from user until user enters an odd numbers.
+Solution68.c - keep takin numbers as input from user until users enter a number which is multiple of 7.
+Solution69.c - Print all numbers from 1 to 10 except for 6.
+Solution70.c - Print all the odd numbers from 5 to 50.
+Solution71.c - Print the factorial of a number n.
+Solution72.c - Print reverse of the table for a number n.
+Solution73.C - Calculate the sum of all numbers between 5 and 50.
+Solution74.C - 
